@@ -1,12 +1,10 @@
 <div align="center">
 
-# 🚀 KAWIN M.S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:065f46&height=200&section=header&text=KAWIN%20M.S&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Frontend%20Developer&descAlignY=58&descSize=18&descColor=d1fae5" width="100%" alt="Header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+GenAI+Systems+%7C+REST+APIs;AI+Engineer+%40+Integer.IO+Tech;50%2B+Projects+%C2%B7+30%2B+Clients+Across+India;Building+Intelligent%2C+User-Focused+Solutions" alt="Typing SVG"/>
 
-<img src="https://avatars.githubusercontent.com/u/172995384?v=4" width="120" style="border-radius:50%;" alt="Kawin M.S"/>
-
-### 🤖 AI Engineer &nbsp;·&nbsp; 💻 Frontend Developer
+<img src="https://avatars.githubusercontent.com/u/172995384?v=4" width="120" style="border-radius:50%;border:3px solid #10b981;" alt="Kawin M.S"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://kawin-portfolio.netlify.app/)
 [![Integer.IO Tech](https://img.shields.io/badge/Integer.IO_Tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.integerio.com/)
@@ -20,6 +18,21 @@
 
 ## 🧬 About Me
 
+| | |
+|---|---|
+| 🎯 **Role** | AI Engineer · Frontend Developer |
+| 🏢 **Company** | Integer.IO Tech — [integerio.com](https://www.integerio.com/) |
+| 📍 **Location** | Madurai, Tamil Nadu, India |
+| 🎓 **Education** | BSc Computer Science · KG College of Arts & Science (2022–2025) |
+| 🚀 **Shipped** | 50+ AI/ML & Web Projects · 30+ Clients across India |
+| 🧩 **Featured Projects** | Prospient GRC · RAG Chat Assistant · CRM Portal · AI Chatbot for Students |
+| 💼 **Available for** | Freelance · Collaboration · Full-time |
+
+> Combine logic + creativity → build intelligent solutions.
+
+<details>
+<summary>💻 View as code</summary>
+
 ```python
 class KawinMS:
     name       = "Kawin M.S"
@@ -29,9 +42,12 @@ class KawinMS:
     education  = "BSc Computer Science · KG College of Arts & Science (2022–2025)"
     current    = "AI Engineer @ Integer.IO Tech"
     shipped    = "50+ AI/ML & Web Projects · 30+ Clients across India"
+    projects   = ["Prospient GRC", "RAG Chat Assistant", "CRM Portal", "AI Chatbot for Students"]
     available  = ["Freelance", "Collaboration", "Full-time"]
     quote      = "Combine logic + creativity → build intelligent solutions"
 ```
+
+</details>
 
 <br/>
 
@@ -137,26 +153,31 @@ CRM portal in active development on React, TypeScript, and Supabase — architec
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Bhoosparsh
+### 🤖 RAG Chat Assistant
 
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
-![SMS OTP](https://img.shields.io/badge/SMS%20OTP-2E8B57)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-6E7681)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-2E7D32)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036)
+![Voice/TTS](https://img.shields.io/badge/Voice%2FTTS-2E7D32)
 
-Django-powered real estate platform live at bhoosparsh.com, hosted on cPanel. Resolved production deployment issues — static file config, Passenger restarts, Python-version constraints — and integrated MSG91 SMS OTP verification.
+Full-stack Retrieval-Augmented Generation system for intelligent document Q&A. Users upload documents and query them with semantic search. Features a FAISS vector store, Gemini/Groq LLM backends, and voice/text-to-speech for a fully conversational AI experience.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Integer.IO Tech — Web
+### 🎓 AI Chatbot for Students
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-555555)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4CAF50)
-![Branding](https://img.shields.io/badge/Branding-9C27B0)
 
-Company website and brand presence for Integer.IO Tech — built the About Us and "Why Choose Us" pages in React, connected the domain through Vercel, and drove SEO-optimized positioning across social platforms.
+Intelligent AI chatbot built to assist students with queries and learning. Uses OpenAI's NLP pipeline for context-aware responses, with a clean frontend interface and persistent chat history.
 
 </td>
 </tr>
@@ -234,3 +255,5 @@ Open to freelance projects, collaborations, and full-time opportunities
 **mskawin2004@gmail.com** &nbsp;·&nbsp; Madurai, Tamil Nadu, India
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:10b981&height=100&section=footer" width="100%" alt="Footer banner"/>
